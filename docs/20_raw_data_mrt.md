@@ -27,7 +27,7 @@ with:
   * XX = the RRC number
   * YYYY = year
   * MM = month
-  * TYPE = the type of file, which is either **bview** (dumps) or **update** (updates)
+  * TYPE = the type of file, which is either **bview** (dumps) or **updates** (updates)
   * DD = day
   * HH = hour
   * mm = minute
