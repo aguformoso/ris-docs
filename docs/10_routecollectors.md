@@ -56,7 +56,7 @@ Locations are also available in dns LOC records
 
 RIPEstat [has an API (rrc-info)](https://stat.ripe.net/docs/02.data-api/rrc-info.html) with the current RIS peers and their numbers of routes. Furthermore, there is a prototype with machine-readable metadata for the **multihop** peers in our [peer metadata prototype](./40_prototypes/20_peer_metadata.md).
 
-We also have a web page of peers per RRC: https://www.ris.ripe.net/peerlist/all.shtml
+We also have a web page of peers per RRC: [https://www.ris.ripe.net/peerlist/all.shtml](https://www.ris.ripe.net/peerlist/all.shtml)
 
 ## BGP Timer settings
 
