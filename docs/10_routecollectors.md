@@ -50,7 +50,12 @@ Historic route collectors are listed in this table:
 
 
 
-Locations are also available in dns LOC records
+Locations are also available in DNS LOC records:
+
+```shell
+dig +short LOC rrc00.ripe.net
+52 22 0.000 N 4 53 0.000 E 0.00m 1m 10000m 10m
+```
 
 ## Peer meta-data
 
