@@ -201,7 +201,7 @@ Routing Anchor Address Schema:
 |:---------------|:----------------------|:-----------------|
 | 84.205.82.0/24 | RRC02 - SFINX         | Paris, FR        |
 
-# 02/02/2005 - 03/09/2007
+## 02/02/2005 - 03/09/2007
 
 Beacon initiated to simulate anycast failover from RRC01 to RRC03.
 
