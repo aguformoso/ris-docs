@@ -244,19 +244,6 @@ Routing Beacon Address Schema:
 |:----------------|:-----------------------------|:-------------------|
 | 195.80.236.0/24 | RRC12 - DE-CIX               | Frankfurt, Germany |
 
-## 06/07/2004 - 02/02/2005
-
-Beacon initiated to assist studies into unwanted effects on convergence when applying current Route Flap Damping practises.
-
-RRC12:
-* Announcements at 00:00h, 04:00h, 08:00h, 12:00h, 16:00h and 20:00h (UTC)
-* Withdrawals at 02:00h, 06:00h, 10:00h, 14:00h, 18:00h and 22:00h (UTC)
-
-Routing Beacon Address Schema:
-| Prefix          | RRC                          | Location           |
-|:----------------|:-----------------------------|:-------------------|
-| 195.80.236.0/24 | RRC12 - DE-CIX               | Frankfurt, Germany |
-
 ## 20/09/2004 - 02/02/2005
 
 Additional Beacon Prefix, 195.80.238.0/24 is announced as normal on RRC01, RRC02, RRC05, RRC06, RRC11. This Beacon Prefix is requested from Hitech Ballani (hitesh@cs.cornell.edu) to work on Anycast server behaviours.
